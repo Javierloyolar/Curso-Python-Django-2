@@ -1,6 +1,6 @@
 **Bootcamp: Desarrollo de Aplicaciones Full Stack Python Trainee V2.0**
 
-Bienvenido al repositorio oficial del programa **Desarrollo de Aplicaciones Full Stack Python Trainee V2.0**, una iniciativa impulsada por **SENCE**, **Talento Digital para Chile** y **Sustantiva OTEC**, facilitada por el relator **Bastián Landskron** con el apoyo del ayudante académico **Daniel Marín**.
+Bienvenido al repositorio oficial del programa **Desarrollo de Aplicaciones Full Stack Python Trainee V2.0**, una iniciativa impulsada por **SENCE**, **Talento Digital para Chile** y **Sustantiva OTEC**, facilitada por el relator **Bastián Landskron** con el apoyo del ayudante académico **Patricia Olivares**.
 
 Este bootcamp forma a desarrolladores capaces de construir aplicaciones web completas con **Python** y **Django**, integrando front-end, back-end y bases de datos, aplicando buenas prácticas de programación y metodologías ágiles.
 
